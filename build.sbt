@@ -1,6 +1,6 @@
 enablePlugins(ScalaJSPlugin)
 
-name := "Scala.js Tutorial"
+name := "Scala Troubleshooting"
 
 scalaVersion := "2.11.8"
 
